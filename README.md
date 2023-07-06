@@ -1,6 +1,6 @@
 # Vue 3 + TypeScript + Vite + Router
 
-## 支持模块
+## Support Module
 1. typescript
 2. vue-router
 3. code规范化
